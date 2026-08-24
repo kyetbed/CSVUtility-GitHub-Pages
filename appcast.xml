@@ -6,6 +6,19 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>CSV Utility</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Mon, 24 Aug 2026 22:13:21 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="zjAYJ6nHSkaRawTuT1ugyNR2tRE4RVRkXgENp1hWS1LZHTpe/u9RbEUsk5NbwEJKXCC/fwqNX2oDa5JLUwvQCw==" sparkle:length="444">https://kyetbed.github.io/CSVUtility-GitHub-Pages/CSV-Utility-1.0.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV-Utility-1.0.2.dmg" length="15253727" type="application/octet-stream" sparkle:edSignature="GXk+BgMAwH1cfD7hqH8b8yV1XIQ4Ir94Xp30UmLX/zABIywAwgaH5HE065phvkR7OckNgmEq2utnf1/57XC0Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility3-2.delta" sparkle:deltaFrom="2" length="13014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KS3R/sw14u12TESKrBmb7u9Ojn2NNRKe8FvvlQaRufQvdG8U3MYgsCikVuy0G6GxZfzk9D9uAMhCa7IIsqQOCw=="/>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility3-1.delta" sparkle:deltaFrom="1" length="30090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qwZF6qhzS1xX8r4U/I/pasSdBkwXNfDKC69KHhRbFVKfm19LAawc5b+eytC7V70GNk7qtVme+ZenyXA+G+5QDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Mon, 24 Aug 2026 21:56:02 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
@@ -29,6 +42,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 34CIac+3FVXCbe+QOG5gKmZ+9FMWbD7npun+aRiykXFyUQQc5NoSl1XJzqej8cO7PDQPWwzeW8UP315YFIl0Aw==
-length: 2665
+edSignature: zsgRs9PCJANXajJBSLd+7TG6zdf8OihuvwoGVEiTRWJDRN3I71u7c3+vGlYIFUM+xegDFvtuauM5Lw5I88kxDg==
+length: 4432
 -->
