@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>CSV Utility</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 25 Aug 2026 20:05:22 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="t0jHt6A+m82QD6tSr+G0Wnbq1noP1k+Os24LOdvUMWMNN55lhlmKkr0QANEoRyLTBy7fIomA6PMZ65gOZmPDDw==" sparkle:length="1387">https://kyetbed.github.io/CSVUtility-GitHub-Pages/CSV-Utility-1.1.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV-Utility-1.1.0.dmg" length="15333540" type="application/octet-stream" sparkle:edSignature="RbWfcrylbw/AdaVa4xYox803Nyj8aHxcz8UDYZ1g7Nv1TLxzHFU6nyCSOS1AwrVXZe2BbRA5akqJ5iz5otiQCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility5-4.delta" sparkle:deltaFrom="4" length="356134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JgNeEKDP+Ep0aRrTn4d0n6ud7M38PvxpXpWhy/sRCV9Dz4y4Zw++dh3kvuSkYOxLPuwmIRZ+38BFRhnKzNSiDA=="/>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility5-3.delta" sparkle:deltaFrom="3" length="362438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mcEF0hbXIg2sOtL0I2RHx/6xkp+hvrq1/TROq3ldPHIEGcHMiGamsLnhImFnrZRkTHkF7nkNueQ9j18gYMk1AQ=="/>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility5-2.delta" sparkle:deltaFrom="2" length="361998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zt95BMn63AGuNUywloUImIyPAz2crFuzflDLsI1IFkIvrnE+kgp/GBh9aTS70gOjs9b4f+GiJ5/b2ghYD6NwBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Mon, 24 Aug 2026 22:21:54 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -56,6 +70,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 6nrdrDYoVN26u+ReCxkX3hwcC8C2SMGgkEsRBIQm32ohWB/JfQXmaQmhPbrrZkFuG4zsJm4Qq3sx5xJM/3TVDw==
-length: 6614
+edSignature: 5YzdH/bgvIoji+yW6JxRVNB50kIYDQsVkXrFtMdarsZdEGOcGZBp9gNa01jqZzynuTH/Jx+x1rSqcwHOat/2DQ==
+length: 8797
 -->
