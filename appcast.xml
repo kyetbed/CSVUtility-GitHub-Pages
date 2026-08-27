@@ -6,6 +6,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>CSV Utility</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Thu, 27 Aug 2026 11:58:08 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="JaGPbyli/GnJpTrJpJm7UHqk7y71+08/yUMf0F4kG68+2d1JBp1XGGAoSHe68AUN+5OI9uAouDD8JxWU2yNCAQ==" sparkle:length="1154">https://kyetbed.github.io/CSVUtility-GitHub-Pages/CSV-Utility-1.4.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV-Utility-1.4.0.dmg" length="15547498" type="application/octet-stream" sparkle:edSignature="tbKiEyqguxsOQTRrGsb9jlhICsXRnLQqURzSQzAV0Ezm+iRYSWhT/OZIcShdMBJOm85I7QsuiitjIDrzGjkSDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility8-7.delta" sparkle:deltaFrom="7" length="310442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pmxTRbPkFao8lEfQZn9Ub+G/Zd91gO3xUG76M0xSIarb6ARfeJYCIjjTNPjtDXTZcvcDL2pnnMdUSXafWgHrBQ=="/>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility8-6.delta" sparkle:deltaFrom="6" length="485606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oDQILdT5cQohMmolsYc5m5qnFrex72nzNRO1ept4yOI1qE8z4vUVtmUPm+NxYsdEP4IBVmPmbw4vQxK1S5HbDQ=="/>
+                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility8-5.delta" sparkle:deltaFrom="5" length="582942" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="R+1oh31fBxxwv9e+aiaNGu6nPReen0rF4M7BKPk94M7DOWocTk9XKq3SVYG8/Jev6gttuSpnhfPjwy6QPlwUBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Wed, 26 Aug 2026 21:21:54 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -61,22 +75,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
                 <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility4-1.delta" sparkle:deltaFrom="1" length="197926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wi+fNKBPM2EgXS59+g3UCAt6cjiMjD4O1vOQGoDt0dJ1inFUD3/lFZiyKnYspaDrVDdAb2BrIpam3YnH/wmCCQ=="/>
             </sparkle:deltas>
         </item>
-        <item>
-            <title>1.0.2</title>
-            <pubDate>Mon, 24 Aug 2026 22:13:21 +0100</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink sparkle:edSignature="zjAYJ6nHSkaRawTuT1ugyNR2tRE4RVRkXgENp1hWS1LZHTpe/u9RbEUsk5NbwEJKXCC/fwqNX2oDa5JLUwvQCw==" sparkle:length="444">https://kyetbed.github.io/CSVUtility-GitHub-Pages/CSV-Utility-1.0.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV-Utility-1.0.2.dmg" length="15253727" type="application/octet-stream" sparkle:edSignature="GXk+BgMAwH1cfD7hqH8b8yV1XIQ4Ir94Xp30UmLX/zABIywAwgaH5HE065phvkR7OckNgmEq2utnf1/57XC0Aw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility3-2.delta" sparkle:deltaFrom="2" length="13014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KS3R/sw14u12TESKrBmb7u9Ojn2NNRKe8FvvlQaRufQvdG8U3MYgsCikVuy0G6GxZfzk9D9uAMhCa7IIsqQOCw=="/>
-                <enclosure url="https://github.com/kyetbed/CSVUtility-Releases/releases/download/updates/CSV.Utility3-1.delta" sparkle:deltaFrom="1" length="30090" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="qwZF6qhzS1xX8r4U/I/pasSdBkwXNfDKC69KHhRbFVKfm19LAawc5b+eytC7V70GNk7qtVme+ZenyXA+G+5QDg=="/>
-            </sparkle:deltas>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: +nIzudHRwWTochpLmaHIHY+31+K+iqNnSqasdCZ91NAKrUVUFvo4T/vxt/YqpL0+fwvDABotS9EKXR8J7sbLAg==
-length: 10933
+edSignature: 2OwacVQRnByj2nh1HhaWgZfucUgqeCPldDfVqac7iU3RKkJP5GP144zWnhuclZOuD0sHn1BAaD4pTex1oBF5CA==
+length: 11349
 -->
